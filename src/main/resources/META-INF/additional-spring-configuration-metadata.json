@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.thymelaf.cache",
+      "type": "java.lang.String",
+      "description": "Description for spring.thymelaf.cache."
+  }
+] }
